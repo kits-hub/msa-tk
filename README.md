@@ -1,7 +1,7 @@
 ## Getting Started
 ```sh
 # Install msa-tk
-git clone https://github.com/jameslz/msa-tk
+git clone https://github.com/kits-hub/msa-tk
 cd msa-tk && make
 
 # genrate identity matrix
